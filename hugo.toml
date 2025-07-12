@@ -1,0 +1,4 @@
+baseURL = "https://BoHongSu.github.io/"
+languageCode = "zh-tw"
+title = "BoHong's Website" # 您可以換成喜歡的標題
+theme = "PaperMod"
