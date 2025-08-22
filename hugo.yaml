@@ -1,0 +1,7 @@
+baseURL: https://BoHongSu.github.io/
+languageCode: en-us
+title: BoHong's Blog
+theme: PaperMod
+caches:
+  images:
+    dir: :cacheDir/images
