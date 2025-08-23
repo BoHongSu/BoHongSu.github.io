@@ -7,12 +7,14 @@ theme: PaperMod
 params:
   homeInfoParams:
     Title: Hi there 👋
-    Content: I am currently pursuing a Master’s degree in Telecommunications at NYCU.
+    Content: I am currently pursuing a Master’s degree in Communications Engineering at NYCU.
 
   socialIcons: # optional
-    - name: "<GitHub>"
-      url: "<https://github.com/BoHongSu>"
-    - #name: "<platform 2>"
+    - name: "GitHub"
+      url: "https://github.com/BoHongSu"
+    - name: "<platform 2>"
+      url: "<link2>"
+      #name: "<platform 2>"
       #url: "<link2>"
 
 outputs:
