@@ -6,14 +6,14 @@ theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: Hi there wave
-    Content: Student in NYCU 
+    Title: Hi there 👋
+    Content: I am currently pursuing a Master’s degree in Telecommunications at NYCU.
 
   socialIcons: # optional
-    - name: "<platform>"
-      url: "<link>"
-    - name: "<platform 2>"
-      url: "<link2>"
+    - name: "<GitHub>"
+      url: "<https://github.com/BoHongSu>"
+    - #name: "<platform 2>"
+      #url: "<link2>"
 
 outputs:
   home:
