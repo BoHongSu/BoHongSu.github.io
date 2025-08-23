@@ -4,14 +4,23 @@ title: BoHong's Blog
 theme: PaperMod
 
 
+params:
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Student in NYCU 
 
+  socialIcons: # optional
+    - name: "<platform>"
+      url: "<link>"
+    - name: "<platform 2>"
+      url: "<link2>"
 
 outputs:
   home:
     - HTML
     - RSS
     - JSON # necessary for search
-    
+
 caches:
   images:
     dir: :cacheDir/images
