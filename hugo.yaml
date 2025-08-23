@@ -2,6 +2,16 @@ baseURL: https://BoHongSu.github.io/
 languageCode: en-us
 title: BoHong's Blog
 theme: PaperMod
+
+
+
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+    
 caches:
   images:
     dir: :cacheDir/images
